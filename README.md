@@ -1,4 +1,4 @@
-[**Model**](https://github.com/ahmedeltaher/Android-MVP-Architecture)
+[**Model**](app/src/main/java/com/task/data)
 
 **Why Promoting MVVM VS MVP:**
 - ViewModel has Built in LifeCycleOwerness, on the other hand Presenter not, and you have to take this responsiblty in your side.
